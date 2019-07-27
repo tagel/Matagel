@@ -1,2 +1,4 @@
 import math
+import shmath
 math.calc()
+shmath.shlibrary.shcalc()
