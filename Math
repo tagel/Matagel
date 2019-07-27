@@ -1,6 +1,4 @@
 import math
 math.calc()
 
-math.reviewable()
-
-print "calced!"
+math.Reviewable()
